@@ -70,10 +70,7 @@ MIT. Free to clone, fork, and remix. Give it a soul of your own.
 
 ---
 
-Let me know if you want:
-- A terminal-style dark preview
-- Emojis removed for a more minimal noir tone
-- Project renamed to match the indie aesthetic (e.g., `shadowmind`, `lore.ai`, `echoRAG`)  
+
 ```
 
 
